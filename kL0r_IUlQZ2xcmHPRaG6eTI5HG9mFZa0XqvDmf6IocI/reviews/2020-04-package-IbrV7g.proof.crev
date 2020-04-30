@@ -1,0 +1,27 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-04-30T20:19:50.444225432+02:00"
+from:
+  id-type: crev
+  id: kL0r_IUlQZ2xcmHPRaG6eTI5HG9mFZa0XqvDmf6IocI
+  url: "https://github.com/dns2utf8/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: threadpool
+  version: 1.8.0
+  revision: 906566d7c5745853aaaaf99a4492b817d5722858
+  digest: 7nncb0XCcoxAE-UrkqOCDcK1RwNSmYF5BB8G-obq59g
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+alternatives:
+  - source: "https://crates.io"
+    name: threadpool
+comment: |-
+  solid crate
+----- SIGN CREV PROOF -----
+53f98yopE4qNdyW2Rvg2excF_SIshbaLMPo_mFR_MK39W44HEHWUWCDKNNSmZYYUPpdxzP21HUjXrlqt-mTZBA
+----- END CREV PROOF -----
+
