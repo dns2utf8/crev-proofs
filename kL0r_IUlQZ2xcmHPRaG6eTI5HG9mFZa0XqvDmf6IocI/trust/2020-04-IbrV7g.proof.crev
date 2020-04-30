@@ -1,0 +1,18 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-04-30T20:14:59.824164183+02:00"
+from:
+  id-type: crev
+  id: kL0r_IUlQZ2xcmHPRaG6eTI5HG9mFZa0XqvDmf6IocI
+  url: "https://github.com/dns2utf8/crev-proofs"
+ids:
+  - id-type: crev
+    id: bYdCa4xhd5VL4dlcVPBxV51PrW5joFp9U04rKgcTvk8
+trust: medium
+comment: |-
+  Trust from talk
+----- SIGN CREV PROOF -----
+mCf-UWglpq2pd_yKstl3KGlx3nslovbslKKam4XqZacvuoKOJygW9ANLf-nieJT3j0_4RzyQ_Szfni_J5TOaBw
+----- END CREV PROOF -----
+
